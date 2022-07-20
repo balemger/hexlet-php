@@ -1,0 +1,17 @@
+{
+    "name": "bahti-alem/hexlet-php",
+    "description": "Hexlet php project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "BahtiAlem\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "balemger",
+            "email": "b.alemger@gmail.com"
+        }
+    ],
+    "require": {}
+}
